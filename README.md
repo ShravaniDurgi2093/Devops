@@ -8,3 +8,12 @@ This folder contains projects related to Devops
 
 <p>This created delays, misunderstandings, and frustration on both sides: developers wanted to ship features quickly, while operations wanted to make sure the code is stable before it's deployed.</p>
 
+<p>To address this conflict, DevOps is a set of practices that combines development (writing code) and operations (deploying and maintaining code) to shorten development cycles and deliver reliable software.</p>
+
+<b>If DevOps is a set of practices, what is a DevOps engineer?</b>
+<p>DevOps engineers implement DevOps practices in their organization. They...</p>
+
+<p>1. Build automated pipelines (e.g. using AWS CodePipeline, Jenkins, GitHub Actions) that test, package, and deploy software, so releases become faster and more reliable.</p>
+<p>2. Containerize applications using tools like Docker and Kubernetes, which helps applications scale.</p>
+<p>3. Turn cloud infrastructure into code (e.g. AWS CloudFormation, Terraform), so teams can create and manage resources more efficiently than manually configuring them.</p>
+<p>At the heart of DevOps is CI/CD - Continuous Integration and Continuous Delivery/Deployment.</p>
